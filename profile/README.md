@@ -9,3 +9,4 @@ A clearly defined, highly opinionated contract between platform and applications
 - Sidecars and other adapters adapt the application's gRPC endpoints to the infra (messaging etc)
 
 
+![Pentops - Page 2](https://user-images.githubusercontent.com/1665328/236635883-bd166b1b-6332-4e57-8a2e-472096bacd2c.png)
